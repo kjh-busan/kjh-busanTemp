@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
-  printf("hello world\n");
+  int a;
   printf("life is egg\n");
+  scanf("%d", &a);
   return 0;
 }
